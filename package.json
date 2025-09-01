@@ -31,7 +31,7 @@
 	},
 	"devDependencies": {
 		"@adaptivelink/pops": "0.5.8",
-		"@cloudflare/vitest-pool-workers": "0.8.18",
+		"@cloudflare/vitest-pool-workers": "0.8.61",
 		"@cloudflare/workers-types": "4.20250417.0",
 		"@nodecraft/eslint-config": "46.0.0",
 		"@types/sanitize-html": "2.15.0",
