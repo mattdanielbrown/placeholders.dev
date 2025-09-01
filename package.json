@@ -35,7 +35,7 @@
 		"@cloudflare/workers-types": "4.20250417.0",
 		"@nodecraft/eslint-config": "46.0.0",
 		"@types/sanitize-html": "2.15.0",
-		"@typescript-eslint/eslint-plugin": "8.30.1",
+		"@typescript-eslint/eslint-plugin": "8.39.1",
 		"eslint": "8.57.1",
 		"eslint-plugin-json": "4.0.1",
 		"eslint-plugin-unicorn": "56.0.1",
